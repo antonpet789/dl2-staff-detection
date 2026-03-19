@@ -34,8 +34,8 @@
 │       ├── draw_rects.py       # Отрисовка боксов
 │       ├── log-parser.ipynb    # Парсинг логов YOLO и построение графиков (Loss, mAP)
 └── yolo/                       # Обучение и Инференс
-    ├── train.ipynb             # Пайплайн обучения YOLO (train/val сплит, подготовка yaml)
-    └── tracking.ipynb          # Инференс + REID Voting
+    ├── train.ipynb             # Пайплайн обучения YOLO (train/val сплит, подготовка yaml). Лучший скор здесь
+    └── tracking.ipynb          # Анализ, location split, Обучение, Инференс + REID Voting
 ```
 
 
