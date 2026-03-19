@@ -1,4 +1,4 @@
-# DL Lab 2: Stuff Detection
+# DL Lab 2: Staff Detection
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-Vectorized_Math-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
